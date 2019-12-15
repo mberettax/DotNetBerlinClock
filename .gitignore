@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BerlinClock/v16
+/.vs/VSProjects/v16
+/bin/Debug
+/.vs
+/obj/Debug
+/packages/SpecFlow.1.9.0
